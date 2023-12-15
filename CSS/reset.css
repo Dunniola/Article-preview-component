@@ -1,0 +1,5 @@
+body, main,div, p,span,h1, img, footer{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
