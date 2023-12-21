@@ -37,7 +37,7 @@ Mobile design
 ### Links
 
 - Solution URL: [View Demo](https://github.com/Dunniola/Article-preview-component.git)
-- Live Site URL: [Netlify App](https://)
+- Live Site URL: [Netlify App](https://article-main-preview.netlify.app/)
 
 ## My process
 
@@ -52,7 +52,7 @@ Mobile design
 
 ## Author
 
-- Website - [Dunniola](https://www.your-site.com)
+- Website - [Dunniola](https://article-main-preview.netlify.app/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 
